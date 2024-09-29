@@ -5,6 +5,6 @@ sentiment-classification.ipynb ---> Used the distilbert as feature extractor and
 
 Finetuning-Transformer-pytorch ---> Finetuned distilbert completely and uploaded the trained model on the hugging face.
 
-using-our-finetuned-model.ipynb ---> Used the psuhed model from hugging face directly.
+using-our-finetuned-model.ipynb ---> Used the psuhed model from hugging face directly. Lables name are bit messed up but you will get the idea.
 
 Thanks :) Fin
